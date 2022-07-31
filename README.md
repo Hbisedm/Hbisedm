@@ -1,11 +1,6 @@
 <img src="https://visitor-badge.glitch.me/badge?page_id=hbisedm.hbisedm" alt="visitor badge" />
 
 - 👋 Hi, I’m @Hbisedm
-- 👀 I’m interested in JavaScript、Java
-- 🌱 I’m currently learning React、Front-end engineering、develop CLI
-- 💞️ I’m looking to collaborate on Vue3
-- 📫 How to reach me hbisedm666@163.com
-
 
 
 <!---
